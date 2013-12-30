@@ -1,0 +1,3 @@
+[submodule "war/js/coinwidget"]
+	path = war/js/coinwidget
+	url = git@github.com:scottycc/coinwidget.com.git
