@@ -1,0 +1,20 @@
+# Various System/Temporary Files:
+Thumbs.db
+.DS_Store
+*.swp
+*~
+Desktop.ini
+
+# Eclipse Workspace Metadata:
+.metadata/
+.settings/
+
+# TextMate Project Files:
+*.tmproj
+
+# Compiled classes:
+*.class
+
+# Google AppEngine:
+war/WEB-INF/classes/
+war/WEB-INF/appengine-generated/
